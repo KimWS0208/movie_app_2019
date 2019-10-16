@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/KimWS0208/movie_app_2019/static/css/main.076113c7.chunk.css",
+    "main.js": "/KimWS0208/movie_app_2019/static/js/main.903e18b5.chunk.js",
+    "main.js.map": "/KimWS0208/movie_app_2019/static/js/main.903e18b5.chunk.js.map",
+    "runtime-main.js": "/KimWS0208/movie_app_2019/static/js/runtime-main.d04209d9.js",
+    "runtime-main.js.map": "/KimWS0208/movie_app_2019/static/js/runtime-main.d04209d9.js.map",
+    "static/js/2.8b0ad9bf.chunk.js": "/KimWS0208/movie_app_2019/static/js/2.8b0ad9bf.chunk.js",
+    "static/js/2.8b0ad9bf.chunk.js.map": "/KimWS0208/movie_app_2019/static/js/2.8b0ad9bf.chunk.js.map",
+    "index.html": "/KimWS0208/movie_app_2019/index.html",
+    "precache-manifest.a2a8e99a8f27ea830a9f0cd97ea6b8b4.js": "/KimWS0208/movie_app_2019/precache-manifest.a2a8e99a8f27ea830a9f0cd97ea6b8b4.js",
+    "service-worker.js": "/KimWS0208/movie_app_2019/service-worker.js",
+    "static/css/main.076113c7.chunk.css.map": "/KimWS0208/movie_app_2019/static/css/main.076113c7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d04209d9.js",
+    "static/js/2.8b0ad9bf.chunk.js",
+    "static/css/main.076113c7.chunk.css",
+    "static/js/main.903e18b5.chunk.js"
+  ]
+}
